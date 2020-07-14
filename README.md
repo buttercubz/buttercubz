@@ -8,10 +8,3 @@
 - currently focused on deno and nodejs
 
 Here you can see the posts I make in [dev.to](https://dev.to/buttercubz)
-
-<p align="center">
-  <img src="./javascript.svg" width="30px"/>
-  <img src="./mecanografiado.svg" width="30px"/>
-  <img src="./ir-lang.svg" width="30px"/>
-  <img src="./piton.svg" width="30px"/>
-</p>
