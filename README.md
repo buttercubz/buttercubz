@@ -9,3 +9,7 @@
 - currently focused on deno and nodejs
 
 Here you can see the posts I make in [dev.to](https://dev.to/buttercubz)
+
+![Erick's stars](https://github-readme-stats.vercel.app/api?username=buttercubz&show_icons=true)
+
+
