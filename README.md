@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on [trex package manager for deno](https://crewdevio.vercel.app/projects/Trex), [Mandarine framework](https://www.mandarinets.org/) and [elsa](https://github.com/elsaland/elsa)
-- ❤ i love typescript, javascript, golang and python.
+- ❤ i love use typescript, javascript, golang, dart and python
 - currently focused on deno and nodejs
 
 Here you can see the posts I make in [dev.to](https://dev.to/buttercubz)
