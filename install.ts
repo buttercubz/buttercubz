@@ -9,7 +9,7 @@
 const install = async (name: string, url: string) => {
   const process = Deno.run({
     cmd: [
-      ...`${Deno.exePath()} install -A -f -r --no-check --unstable -n ${name} ${url}`.split(
+      ...`${Deno.execPath()} install -A -f -r --no-check --unstable -n ${name} ${url}`.split(
         " "
       ),
     ],
