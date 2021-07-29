@@ -47,7 +47,7 @@
   <div class="contact-me">
     <div class="logo-card">
       {#each data.Socials as { name, url }}
-        <a class="social" target="_blank" href={url}>
+        <a class="social" target="_blank" href={url} rel="noopener">
           {name}
         </a>
       {/each}
@@ -135,7 +135,7 @@
       width: 0;
     }
     to {
-      width: 17.5em;
+      width: 16.3em;
     }
   }
 
