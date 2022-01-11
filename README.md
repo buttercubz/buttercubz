@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some open source projects
 - ❤ i love use typescript, javascript, golang, dart and python
-- currently focused on deno and nodejs
+- currently focused on deno and golang
 
 Here you can see the posts I make in [dev.to](https://dev.to/buttercubz)
 
